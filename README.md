@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Retiortuk
 - 👀 I’m interested in Web Development,other than programming. 3D Modeling, Photography
-- 🌱 I’m currently learning HTML CSS Python
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Cool Project and Inspiring to lot of people
 - 📫 How to reach me <a href="https://www.instagram.com/auliizm/">@auliizm</a> or <a href="mailto:aauliagazzam@gmail.com">aauliagazzam@gmail.com</a>
 - 😄 Pronouns: He/Him
