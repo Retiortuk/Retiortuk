@@ -1,9 +1,19 @@
-Hi, 
-I’m @Retiortuk/Aulia Ahmad Or You Can Call Me Gesa " I'm Web Developer Focused On Web Development " 
 
-For More Info Feel Free To Reach Me:
-📫 How to reach me: <a href="https://www.instagram.com/auliizm/">@auliizm</a> or <a href="mailto:aauliagazzam@gmail.com">aauliagazzam@gmail.com</a>
-<!---
-Retiortuk/Retiortuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Aulia Ahmad
+
+---
+
+![Header](./img/github-header-image%20(3).png)
+
+---
+
+## ❔ About Me
+
+- **Known as Gesa**
+- **I'm Website Fullstack Developer Programmer 💻**
+- **I'm also can do 3D Artist 🖌**
+- **Students at Telkom University Purwokerto Take Major in Software Engineering ⛏**
+
+---
+
+
