@@ -1,5 +1,5 @@
 
-# 👋 Aulia Ahmad
+# 👋 Hi I'm Aulia Ahmad!
 
 ---
 
@@ -9,11 +9,15 @@
 
 # ❔ About Me
 
-- #### Known as Gesa
-- #### I'm Website Fullstack Developer Programmer 💻
-- #### I'm also can do 3D Artist 🖌
-- #### Students at Telkom University Purwokerto Take Major in Software Engineering ⛏
+- **Known as Gesa**
+- **I'm Website Fullstack Developer Programmer 💻**
+- **I'm also can do 3D Artist 🎮🖌**
+- **Students at Telkom University Purwokerto Majoring in Software Engineering ⛏**
 
 ---
+
+## 🥇My Skils
+
+
 
 
