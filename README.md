@@ -25,12 +25,14 @@
 ### Miscellaneous
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,mysql,nodejs,postman)](https://skillicons.dev)
 
----
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=blender,ai)](https://skillicons.dev)
 
 ---
+
+# 📊Stats
+![Aulia Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Retiortuk)
 
 
 
