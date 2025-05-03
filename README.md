@@ -32,7 +32,7 @@
 ---
 
 # 📊Stats
-![Aulia Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Retiortuk)
+![Aulia Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Retiortuk&show_icons=true&theme=react)
 
 
 
