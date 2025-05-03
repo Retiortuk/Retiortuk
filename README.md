@@ -19,6 +19,10 @@
 # 🥇My Skils
 
 ### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=python,js,php,perline=3)](https://skillicons.dev)
+---
+### Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,mysql,nodejs,postman)](https://skillicons.dev)
 
 
 
