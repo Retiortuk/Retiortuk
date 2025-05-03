@@ -34,6 +34,17 @@
 # 📊Stats
 ![Aulia Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Retiortuk&show_icons=true&theme=react)
 
+---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Retiortuk/Retiortuk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Retiortuk/Retiortuk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Retiortuk/Retiortuk/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/Retiortuk/Retiortuk/output/snake.svg" alt="Snake animation" />
+
+###
 
