@@ -9,10 +9,10 @@
 
 # ❔ About Me
 
-- **👨 Known as Gesa**
-- **💻 I'm Website Fullstack Developer Programmer**
-- **🎮 I'm also can do 3D Artist**
-- **📘 Students at Telkom University Purwokerto Majoring in Software Engineering ⛏**
+- **👨 Known as Gesa.**
+- **💻 I'm a Full-Stack Web Developer and Programmer.**
+- **🎮 I'm also can do 3D Artist.**
+- **📘 Students at Telkom University Purwokerto Majoring in Software Engineering. ⛏**
 
 ### 📞 Contact: 
 <a href="https://x.com/DeLaSerre8" target="_blank">
