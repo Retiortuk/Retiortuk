@@ -9,10 +9,10 @@
 
 # ❔ About Me
 
-- **Known as Gesa**
-- **I'm Website Fullstack Developer Programmer 💻**
-- **I'm also can do 3D Artist 🎮🖌**
-- **Students at Telkom University Purwokerto Majoring in Software Engineering ⛏**
+- **👨 Known as Gesa**
+- **💻 I'm Website Fullstack Developer Programmer**
+- **🎮 I'm also can do 3D Artist**
+- **📘 Students at Telkom University Purwokerto Majoring in Software Engineering ⛏**
 
 ### 📞 Contact: 
 <a href="https://x.com/DeLaSerre8" target="_blank">
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> <a href="mailto:aauliagazzam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-</a> <a href="https://steamcommunity.com/id/RetiortUK" target="_blank">
+</a> <a href="https://steamcommunity.com/profiles/76561198968305570/" target="_blank">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge">
 </a>
 
