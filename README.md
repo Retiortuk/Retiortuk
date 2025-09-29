@@ -45,7 +45,7 @@
 
 <div align="center">
   
-  <h1>🥇Hands On</h1>
+  <h2>🚀 Hands On</h2>
   <br>
   <img src="https://skillicons.dev/icons?i=python,js,php,dart,react,express">
   <br>
@@ -59,7 +59,10 @@
 
 ---
 <div align="center">
-  <h3>Contact</h3>
+  <h2>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVodWpnM2p2NXdzM3Z6MmxzdmJqZG0za3lkdndrcWdsOWI4cGJnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lQ6CBvgBn7QEbb0Va8/giphy.gif" width="50">
+    Contact:
+  </h2>
   <a href="https://x.com/DeLaSerre8" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> <a href="https://www.instagram.com/auliizm" target="_blank">
