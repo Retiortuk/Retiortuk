@@ -9,15 +9,15 @@
 ---
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me
 </h1>
 
 
 
-  **👨 Hi, I'm Gesa**  
-  **💻 Software Engineer & Full-Stack Developer** — passionate about solving complex problems with clean and efficient code.  
-  **🎨 3D Artist** — skilled in creating models and assets for games & interactive media.  
-  **📘 Software Engineering Student @ Telkom University Purwokerto** — continuously learning and building real-world projects.  
+  - **👨 Hi, I'm Gesa**  
+  - **💻 Software Engineer & Full-Stack Developer** — passionate about solving complex problems with clean and efficient code.  
+  - **🎨 3D Artist** — skilled in creating models and assets for games & interactive media.  
+  - **📘 Software Engineering Student @ Telkom University Purwokerto** — continuously learning and building real-world projects.  
 
 
 
