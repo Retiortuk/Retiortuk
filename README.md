@@ -1,18 +1,27 @@
 
-# 👋 Hi I'm Aulia Ahmad!
+<h1 align="center">👋 Hi I'm Aulia Ahmad!</h1>
+
+---
+<p align="center">
+  <img src="img/github-header-image (8).png">
+</p>
 
 ---
 
-![Header](./img/github-header-image%20(8).png)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> About Me
+</h1>
 
----
+<div align="center">
 
-# ❔ About Me
+  **👨 Hi, I'm Gesa**  
+  **💻 Software Engineer & Full-Stack Developer** — passionate about solving complex problems with clean and efficient code.  
+  **🎨 3D Artist** — skilled in creating models and assets for games & interactive media.  
+  **📘 Software Engineering Student @ Telkom University Purwokerto** — continuously learning and building real-world projects.  
 
-- **👨 Known as Gesa.**
-- **💻 I'm a Full-Stack Web Developer and Programmer.**
-- **🎮 I'm also can do 3D Artist.**
-- **📘 Students at Telkom University Purwokerto Majoring in Software Engineering. ⛏**
+</div>
+
+
 
 ### 📞 Contact: 
 <a href="https://x.com/DeLaSerre8" target="_blank">
