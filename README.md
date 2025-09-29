@@ -43,18 +43,19 @@
 
 ---
 
-# 🥇Skils
+<div align="center">
+  
+  <h1>🥇Hands On</h1>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,js,php,dart,react,express">
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,mongo,mysql,html,css,git,postman">
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,md,npm,bash,figma,pr,ps,ai,blender">
 
-### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=python,js,php,perline=3)](https://skillicons.dev)
-
-
-### Miscellaneous
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,mysql,nodejs,postman)](https://skillicons.dev)
-
-
-### Design
-[![My Skills](https://skillicons.dev/icons?i=blender,ai)](https://skillicons.dev)
+</div>
 
 ---
 <div align="center">
