@@ -45,7 +45,7 @@
 
 <div align="center">
   
-  <h3>🚀 Hands On</h3>
+  <h1>🚀 Hands On</h1>
   <br>
   <img src="https://skillicons.dev/icons?i=python,js,php,dart,react,express">
   <br>
