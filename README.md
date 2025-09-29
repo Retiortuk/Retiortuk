@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="img/github-header-image (8).png">
+  <img src="img/github-header-banner-12.png">
 </p>
 
 ---
