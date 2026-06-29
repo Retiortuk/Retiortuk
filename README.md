@@ -17,7 +17,8 @@
   - **👨 Hi, I'm Gesa**  
   - **💻 Software Engineer & Full-Stack Developer** — passionate about solving complex problems with clean and efficient code.  
   - **🎨 3D Artist** — skilled in creating models and assets for games & interactive media.  
-  - **📘 Software Engineering Student @Telkom University Purwokerto** — continuously learning and building real-world projects.  
+  - **📘 Software Engineering Student @Telkom University Purwokerto** — continuously learning and building real-world projects.
+  - **🌐 Visit My Website To Learn More Get In Touch!** [aulia-ahmad.vercel.app](https://aulia-ahmad.vercel.app.)  
 
 ---
 
