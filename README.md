@@ -18,7 +18,7 @@
   - **💻 Software Engineer & Full-Stack Developer** — passionate about solving complex problems with clean and efficient code.  
   - **🎨 3D Artist** — skilled in creating models and assets for games & interactive media.  
   - **📘 Software Engineering Student @Telkom University Purwokerto** — continuously learning and building real-world projects.
-  - **🌐 Visit My Website To Learn More Get In Touch!** [aulia-ahmad.vercel.app](https://aulia-ahmad.vercel.app.)  
+  - **🌐 Visit My Website To Learn More And Get In Touch!** [aulia-ahmad.vercel.app](https://aulia-ahmad.vercel.app.)  
 
 ---
 
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> <a href="https://www.instagram.com/auliizm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> <a href="mailto:aauliagazzam@gmail.com">
+  </a> <a href="mailto:auliagazzam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a> <a href="https://steamcommunity.com/profiles/76561198968305570/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge">
